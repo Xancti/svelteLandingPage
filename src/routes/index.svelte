@@ -13,28 +13,28 @@
         <div class="feature">
             <img src={image2} alt="Terrain" class="feature-img">
             <div class="content">
-                <h3>An Amazing Experience</h3>
+                <h3>About Me</h3>
                 <a href="#" class="cta">Learn more</a>
             </div>
         </div>
         <div class="feature">
             <img src={image3} alt="Terrain" class="feature-img">
             <div class="content">
-                <h3>An Amazing Experience</h3>
+                <h3>Portfolio</h3>
                 <a href="#" class="cta">Learn more</a>
             </div>
         </div>
         <div class="feature">
             <img src={image4} alt="Terrain" class="feature-img">
             <div class="content">
-                <h3>An Amazing Experience</h3>
+                <h3>Blog</h3>
                 <a href="#" class="cta">Learn more</a>
             </div>
         </div>
         <div class="feature">
             <img src={image5} alt="Terrain" class="feature-img">
             <div class="content">
-                <h3>An Amazing Experience</h3>
+                <h3>Contact</h3>
                 <a href="#" class="cta">Learn more</a>
             </div>
         </div>
